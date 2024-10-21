@@ -7,13 +7,13 @@ I'm a developer with a passion for Web Development and solving real-world proble
 
 ## Current Projects
 
-- **Password Manager (React & Node.js)**: Developing a secure, user-friendly password manager.
-- **C Testing Framework (Bash)**: Building a framework to automate testing in C.
+- **Password Manager (React & Node.js)**: Developing a secure, user-friendly password manager with the help of artificial intelligence.
+- **CV Generator**: Building an web app where you complete a form and based on your inputs a resume is generated using AI.
 
 ## Learning Journey
 
 - Mastering **Java Spring Ecosystem** & **MERN Stack**
-- Advancing my skills in **Bash Scripting**
+- Advancing my skills in **TypeScript**
 
 ## Collaboration
 
@@ -27,12 +27,12 @@ Open to collaborating on:
 
 - Blockchain Technology
 - Front-End Development
-- Linux Systems
+- Artificial intelligence
 
 ## Connect with Me
 
 - LinkedIn: [Horatiu Lazea](https://www.linkedin.com/in/horatiu-lazea/)
-- Blog/Website: Coming Soon!
+- Blog/Website: [horatiulazea.com](https://horatiulazea.com/)
 
 ## Stats
 
