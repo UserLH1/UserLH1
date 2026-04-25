@@ -1,49 +1,50 @@
 # Hello, I'm Horatiu 👋
 
-Welcome to my GitHub page!
+Welcome to my GitHub space! 
 
 ## About Me
-I'm a developer with a passion for Web Development and solving real-world problems. I create and contribute to projects that make a positive impact.
+I'm a 24-year-old Full Stack Software Engineer based in Timișoara, Romania. I love taking ideas and turning them into real, scalable products. Recently, I bootstrapped and launched my own B2B SaaS, and I'm currently pursuing a Master's in Cybersecurity because I realized that to build truly robust apps, you need to understand how to break them. 
 
-## Current Projects
+Right now, I'm actively looking for my next big challenge—a full-time role where I can write clean code, learn from smart people, and make an impact.
 
-- **Password Manager (React & Node.js)**: Developing a secure, user-friendly password manager with the help of artificial intelligence.
-- **CV Generator**: Building an web app where you complete a form and based on your inputs a resume is generated using AI.
+## What I've been building lately 🚀
 
-## Learning Journey
+- **Cortix**: My B2B productivity SaaS built with **Next.js & NestJS**. It went from a blank screen to 400+ active users in its first month!
+- **[NexusEDR](https://github.com/UserLH1/edr)**: A cross-platform Endpoint Detection & Response desktop app. I built this using **Rust**, **Tauri**, and **React** to get my hands dirty with system-level programming and threat hunting.
+- **[Monopoly Empire](https://github.com/UserLH1/Monopoly-Empire)**: A web-based multiplayer board game featuring real-time events via SSE, backed by a **Java Spring Boot** microservices architecture.
+- **Password Manager**: My Bachelor's thesis project—a secure vault with AI anomaly detection.
 
-- Mastering **Java Spring Ecosystem** & **MERN Stack**
-- Advancing my skills in **TypeScript**
+## My Learning Journey 🧠
 
-## Collaboration
+Currently, I'm focusing my energy on:
+- Scaling architectures in the **TypeScript Ecosystem** (NestJS / Next.js)
+- Bridging the gap between software engineering and offensive security (**DevSecOps**)
+- Getting better at low-level performance with **Rust** 🦀
 
-Open to collaborating on:
-- Open Source Projects
-- Full-Stack Development
-- Educational Content & Tools
-- Innovative Startup Projects
+## Let's Collaborate! 🤝
 
-## My Interests
+I'm super open to chatting about:
+- **Full-Stack roles** (If your team is hiring, I'd love to talk!)
+- Building and scaling startup MVPs
+- Open-source security tools
 
-- Blockchain Technology
-- Front-End Development
-- Artificial intelligence
-
-## Connect with Me
+## Connect with Me 📬
 
 - LinkedIn: [Horatiu Lazea](https://www.linkedin.com/in/horatiu-lazea/)
-- Blog/Website: [horatiulazea.com](https://horatiulazea.com/)
+- Portfolio/Website: [horatiulazea.com](https://horatiulazea.com/)
 
-## Stats
+---
+
+## My GitHub Stats 📊
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=UserLH1&show_icons=true)
 
-## Most Used Languages
+## Most Used Languages 💻
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UserLH1&layout=compact)
 
-## Current Streak
+## Current Streak 🔥
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UserLH1)
 
-*Thanks for visiting my profile! Feel free to explore my repositories, and let's chat or collaborate on an exciting project!*
+*Thanks for stopping by! Feel free to poke around my repos. If you see something you like, don't hesitate to reach out.*
